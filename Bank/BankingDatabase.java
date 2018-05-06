@@ -32,7 +32,7 @@ public class BankingDatabase extends javax.swing.JFrame {
     /**
      * Creates new form BankingDatabase
      */
-    
+   
     public BankingDatabase() {
         connectToDatabase();
         initComponents();
