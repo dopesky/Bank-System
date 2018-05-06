@@ -29,7 +29,7 @@ public class BankConsole {
                 }catch(Exception e){}
             }
         };
-    
+   
     public static int checkInt(Scanner e){
         int value;
         do{
