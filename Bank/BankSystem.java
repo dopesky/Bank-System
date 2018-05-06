@@ -34,7 +34,7 @@ public class BankSystem extends javax.swing.JFrame {
             }catch(Exception e){}
         }
     };
-    
+   
     /**
      * Creates new form BankSystem
      */
